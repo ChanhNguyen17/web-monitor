@@ -1,0 +1,17 @@
+{
+    "websites": [
+        {
+            "url": "http://www.foobar.com/login",
+            "content_requirement": "Please login:"
+        },
+        {
+            "url": "https://company.f-secure.com/en",
+            "content_requirement": "Making every digital moment secure, for everyone"
+        },
+        {
+            "url": "https://wiki.python.org/moin/BeginnersGuide",
+            "content_requirement": "Hacking with Python"
+        }
+    ],
+    "checking_period_seconds": 5
+}
